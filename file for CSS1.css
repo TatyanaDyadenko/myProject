@@ -1,0 +1,52 @@
+.sector{
+    width: 40%;
+    margin: 0 auto;
+}
+h1{
+    text-align: right;
+}
+p{
+    text-align: justify;
+}
+p:first-letter{
+    color: red;
+    font-size:32px;
+}
+.mark{
+    background: green;
+    color: white;
+}
+.green{
+    color: green;
+}
+.grey{
+    color: #555;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.orange{
+    color: orange;
+}
+ul>li, th{
+    font-weight: bold;
+}
+
+td{
+    background: green;
+    color: white;
+    text-align: center;
+}
+.name{
+    font-weight: normal;
+    color: orange;
+    text-align: left;
+    background: white;
+}
+.transparent th{
+    background: white;
+    color: black;
+}
