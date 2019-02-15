@@ -1,0 +1,12 @@
+/*-Первый параграф в article
+ -выделить бОльшим кеглем
+-последний цветом \#999*/
+body{
+    font-size: 1.5em;
+}
+article header+p{
+    font-weight: bold;
+}
+p:last-child{
+    color: #999;
+}
