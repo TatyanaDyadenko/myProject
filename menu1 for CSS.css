@@ -1,0 +1,38 @@
+/*-необходимо сверстать меню из макета menu1.png использую inline-block
+-Линия растянута на всю ширину страницы. Само меню шириной 900px и центрируется.
+-Шрифт рекомендую - Economica bold.
+-Для подключения шрифта вставьте link в title
+ */
+@import url('https://fonts.googleapis.com/css?family=Economica:400,700');
+body{
+    background:lightblue;
+}
+@font-face {
+    font-family: Economica bold;
+}
+.menu{
+    list-style-type: none;
+    margin:350px;
+    text-align:left;
+    background-color: purple;
+    width: 900px;
+    border-top: 12px solid snow;
+    border-bottom: 12px solid snow;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Economica', sans-serif;
+    padding:10px;
+    vertical-align: center;
+    line-height: 1.5;
+    font-size: 140%;
+    box-sizing: border-box;
+    text-align: left;
+}
+.menu li{
+    display:inline-block;
+}
+a:hover{
+    background-color:lightskyblue;
+}

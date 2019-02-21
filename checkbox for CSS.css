@@ -1,0 +1,56 @@
+/*
+	по состоянию checked включать/выключать
+	соответствующие элементы
+
+	http://clck.ru/d/Jxj_mgDC143fZ
+*/
+
+body {
+    font:22px Arial;
+}
+
+input {
+    display: none;
+}
+
+label {
+    text-decoration: underline;
+    margin-right: 2em;
+}
+
+label[for="red"] {
+    color: red;
+}
+label[for="green"] {
+    color: green;
+}
+label[for="blue"] {
+    color: blue;
+}
+
+span {
+    display: none;
+    border-radius: 0.5em;
+    padding: .1em .5em;
+    color: #FFF;
+}
+
+input#red:checked ~ span.red {
+    display: inline-block;
+}
+input#blue:checked ~ span.blue {
+    display: inline-block;
+}
+input#green:checked ~ span.green {
+    display: inline-block;
+}
+
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
+.blue {
+    background-color: blue;
+}

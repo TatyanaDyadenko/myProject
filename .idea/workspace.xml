@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1652ba0-0d35-4b75-a691-78fdbe0d8d8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/table for CSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/table for css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text for css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text for css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkbox for CSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkbox for CSS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu1 for CSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu1 for CSS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,20 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/table for CSS.css">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/menu1 for CSS.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="136">
+              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/table for css.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/menu1 for CSS.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            <state relative-caret-position="510">
+              <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -80,6 +81,11 @@
         <option value="$PROJECT_DIR$/text for css.css" />
         <option value="$PROJECT_DIR$/table for css.html" />
         <option value="$PROJECT_DIR$/table for CSS.css" />
+        <option value="$PROJECT_DIR$/checkbox for CSS.html" />
+        <option value="$PROJECT_DIR$/checkbox for CSS.css" />
+        <option value="$PROJECT_DIR$/.idea/menu1 for CSS.html" />
+        <option value="$PROJECT_DIR$/menu1 for CSS.html" />
+        <option value="$PROJECT_DIR$/menu1 for CSS.css" />
       </list>
     </option>
   </component>
@@ -172,7 +178,9 @@
       <workItem from="1548695166619" duration="15668000" />
       <workItem from="1549024463428" duration="4668000" />
       <workItem from="1549112839393" duration="18174000" />
-      <workItem from="1549641607858" duration="8150000" />
+      <workItem from="1549641607858" duration="10667000" />
+      <workItem from="1550682252766" duration="9423000" />
+      <workItem from="1550757269608" duration="6900000" />
     </task>
     <task id="LOCAL-00001" summary="word grammar">
       <created>1548517523590</created>
@@ -202,11 +210,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549641792308</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="nth-child">
+      <created>1550244544273</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550244544273</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122154000" />
+    <option name="totallyTimeSpent" value="140994000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -222,12 +237,12 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49829933" visible="true" weight="0.14717224" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49829933" visible="true" weight="0.15102828" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5017007" side_tool="true" weight="0.2624811" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.32993197" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Run" order="5" />
@@ -242,34 +257,38 @@
       <window_info anchor="right" id="Terminal" order="4" side_tool="true" weight="0.3277635" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49829933" visible="true" weight="0.14203085" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49829933" visible="true" weight="0.15102828" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5017007" side_tool="true" weight="0.2624811" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.32993197" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Run" order="5" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="TODO" order="3" side_tool="true" weight="0.19591528" />
-      <window_info anchor="right" id="Terminal" order="4" side_tool="true" weight="0.3281493" />
+      <window_info anchor="right" id="TODO" order="3" side_tool="true" weight="0.16131106" />
+      <window_info anchor="right" id="Terminal" order="4" side_tool="true" weight="0.3277635" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/GoIt" />
+    </ignored-roots>
     <MESSAGE value="word grammar" />
     <MESSAGE value="links+css" />
     <MESSAGE value="links+css2" />
-    <option name="LAST_COMMIT_MESSAGE" value="links+css2" />
+    <MESSAGE value="nth-child" />
+    <option name="LAST_COMMIT_MESSAGE" value="nth-child" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/task5.html">
@@ -327,11 +346,6 @@
         <state relative-caret-position="-22" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/table.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -342,24 +356,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/links for CSS2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/text for css.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file for CSS1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -377,6 +377,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/table for CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table for css.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig" />
+    <entry file="file://$PROJECT_DIR$/.idea/menu1 for CSS.html" />
     <entry file="file://$PROJECT_DIR$/links for CSS2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -384,17 +400,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/table for css.html">
+    <entry file="file://$PROJECT_DIR$/file for CSS1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        <state relative-caret-position="30">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/table for CSS.css">
+    <entry file="file://$PROJECT_DIR$/list.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkbox for CSS.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="51">
+          <caret line="3" column="73" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkbox for CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/links for CSS2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu1 for CSS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu1 for CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
         </state>
       </provider>
     </entry>
